@@ -1,4 +1,4 @@
-package compiler;
+package archives.compiler;
 
 public class Main {
     public static void main(String[] args) {

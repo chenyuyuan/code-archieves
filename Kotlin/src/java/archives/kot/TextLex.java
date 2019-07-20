@@ -1,4 +1,4 @@
-package kot;
+package archives.kot;
 
 import javax.swing.table.DefaultTableModel;
 

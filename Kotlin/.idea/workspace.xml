@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d5244c2-e33b-4dc1-bbe4-52e437d88e14" name="Default Changelist" comment="" />
+    <list default="true" id="5d5244c2-e33b-4dc1-bbe4-52e437d88e14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/archives/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/jzof/question02/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Felagund.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Felagund.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/compiler/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/compiler/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/compiler/irgenerator/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/compiler/irgenerator/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/compiler/lexer/Lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/compiler/lexer/Lexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/compiler/lrparser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/compiler/lrparser/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/kot/LexicalAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/kot/LexicalAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/kot/LexicalAnalysis0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/kot/LexicalAnalysis0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/kot/TextLex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/kot/TextLex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/kot/test0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/kot/test0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/test3.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,24 +39,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/compiler/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/java/leetcode/SpiralOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="1482">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/leetcode/SpiralOrder.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/archives/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="52">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -53,20 +71,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/compiler/lexer/Lexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#isKey#0;class#Lexer#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/compiler/lrparser/Parser.java">
+        <entry file="file://$PROJECT_DIR$/src/java/archives/compiler/lrparser/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
               <caret line="18" selection-start-line="18" selection-end-line="29" selection-end-column="1" />
@@ -78,7 +83,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/compiler/irgenerator/Generator.java">
+        <entry file="file://$PROJECT_DIR$/src/java/archives/compiler/irgenerator/Generator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="832">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
@@ -87,7 +92,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/kot/test0.txt">
+        <entry file="file://$PROJECT_DIR$/src/java/archives/kot/test0.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -117,10 +122,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/java/archives/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="78">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/jzof/question02/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -144,6 +158,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -176,6 +193,12 @@
         <option value="$PROJECT_DIR$/src/Java/compiler/lexer/Lexer.java" />
         <option value="$PROJECT_DIR$/src/Java/compiler/Main.java" />
         <option value="$PROJECT_DIR$/src/java/leetcode/SpiralOrder.java" />
+        <option value="$PROJECT_DIR$/src/java/test.c" />
+        <option value="$PROJECT_DIR$/src/java/test2.java" />
+        <option value="$PROJECT_DIR$/src/java/reverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/java/archives/reverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/java/archives/Main.java" />
+        <option value="$PROJECT_DIR$/src/java/jzof/question02/Singleton.java" />
       </list>
     </option>
   </component>
@@ -191,13 +214,24 @@
     <option name="width" value="1910" />
     <option name="height" value="789" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Felagund" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Felagund" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,6 +250,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Felagund" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jzof" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Felagund" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jzof" type="462c0819:PsiDirectoryNode" />
+              <item name="question02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Felagund" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -223,12 +278,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559016917082" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -252,11 +308,11 @@
   </component>
   <component name="RunManager" selected="Application.SpiralOrder">
     <configuration name="Lexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compiler.lexer.Lexer" />
+      <option name="MAIN_CLASS_NAME" value="archives.compiler.lexer.Lexer" />
       <module name="Felagund" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compiler.lexer.*" />
+          <option name="PATTERN" value="archives.compiler.lexer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +321,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compiler.Main" />
+      <option name="MAIN_CLASS_NAME" value="archives.compiler.Main" />
       <module name="Felagund" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compiler.*" />
+          <option name="PATTERN" value="archives.compiler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +334,11 @@
       </method>
     </configuration>
     <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compiler.lrparser.Parser" />
+      <option name="MAIN_CLASS_NAME" value="archives.compiler.lrparser.Parser" />
       <module name="Felagund" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="compiler.lrparser.*" />
+          <option name="PATTERN" value="archives.compiler.lrparser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,8 +376,8 @@
       <item itemvalue="Application.Lexer" />
       <item itemvalue="Application.Parser" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Kotlin.TestKt" />
       <item itemvalue="Application.SpiralOrder" />
+      <item itemvalue="Kotlin.TestKt" />
     </list>
     <recent_temporary>
       <list>
@@ -405,17 +461,17 @@
       <workItem from="1558352715238" duration="89000" />
       <workItem from="1558505696388" duration="1055000" />
       <workItem from="1559010866130" duration="3418000" />
+      <workItem from="1563614147430" duration="1895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167283000" />
+    <option name="totallyTimeSpent" value="169178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16720085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1693376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -430,7 +486,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -474,14 +530,7 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/test.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/kot/TextLex.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/kot/TextLex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2987">
           <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
@@ -490,20 +539,6 @@
             <element signature="method#isNumber#0;class#TextLex#0" />
             <element signature="method#isKey#0;class#TextLex#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -525,31 +560,31 @@
     <entry file="file://$PROJECT_DIR$/src/Java/compiler/lexer/Num.java" />
     <entry file="file://$PROJECT_DIR$/src/Java/compiler/lexer/Token.java" />
     <entry file="file://$PROJECT_DIR$/src/Java/compiler/lexer/Tag.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/kot/LexicalAnalysis0.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/kot/LexicalAnalysis0.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/kot/LexicalAnalysis.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/kot/LexicalAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/test.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/compiler/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/compiler/lexer/Lexer.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/compiler/lexer/Lexer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#isKey#0;class#Lexer#0" />
@@ -557,7 +592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/compiler/lrparser/Parser.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/compiler/lrparser/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="18" selection-start-line="18" selection-end-line="29" selection-end-column="1" />
@@ -567,14 +602,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/compiler/irgenerator/Generator.java">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/compiler/irgenerator/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/kot/test0.txt">
+    <entry file="file://$PROJECT_DIR$/src/java/archives/kot/test0.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -598,29 +633,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/java/test.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/compiler/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/leetcode/SpiralOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        <state relative-caret-position="1482">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/archives/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/archives/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/jzof/question02/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>

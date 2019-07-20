@@ -1,4 +1,4 @@
-package compiler.irgenerator;
+package archives.compiler.irgenerator;
 
 import java.util.*;
 

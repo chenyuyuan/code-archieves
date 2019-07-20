@@ -1,6 +1,6 @@
-package compiler.lrparser;
+package archives.compiler.lrparser;
 
-import compiler.lexer.Lexer;
+import archives.compiler.lexer.Lexer;
 
 import java.io.IOException;
 import java.util.ArrayList;

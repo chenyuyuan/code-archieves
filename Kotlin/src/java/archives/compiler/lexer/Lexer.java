@@ -1,10 +1,8 @@
-package compiler.lexer;
+package archives.compiler.lexer;
 
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Set;
 
 class Symbol {
     String name;
