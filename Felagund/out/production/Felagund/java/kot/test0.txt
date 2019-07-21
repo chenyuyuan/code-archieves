@@ -1,2 +1,0 @@
-printf("Hello world!");
-if(a == 0) a = c + d;

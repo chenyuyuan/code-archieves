@@ -6,7 +6,7 @@ class LinkedList {
     LinkedList(int x) { val = x; }
 }
 
-public class reverseLinkedList {
+public class ReverseLinkedList {
     public static LinkedList reverse(LinkedList head) {
         LinkedList p = null;
         LinkedList q = head;
