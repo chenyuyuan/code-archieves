@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d5244c2-e33b-4dc1-bbe4-52e437d88e14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/spto/question03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/spto/question05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/archives/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/archives/ReverseLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/spto/question03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="276">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/spto/question05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -117,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/java/question03.java" />
         <option value="$PROJECT_DIR$/src/java/archives/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/java/spto/question03.java" />
+        <option value="$PROJECT_DIR$/src/java/spto/question05.java" />
       </list>
     </option>
   </component>
@@ -127,9 +135,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="26" />
+    <option name="y" value="25" />
     <option name="width" value="960" />
-    <option name="height" value="1054" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -192,7 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,20 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.question03">
-    <configuration name="Lexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="archives.compiler.lexer.Lexer" />
-      <module name="Felagund" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="archives.compiler.lexer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.question05">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="archives.compiler.Main" />
       <module name="Felagund" />
@@ -280,6 +275,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="question05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spto.question05" />
+      <module name="Felagund" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Felagund" />
       <option name="VM_PARAMETERS" />
@@ -294,19 +302,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lexer" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.SpiralOrder" />
-      <item itemvalue="Kotlin.TestKt" />
       <item itemvalue="Application.question03" />
+      <item itemvalue="Kotlin.TestKt" />
+      <item itemvalue="Application.question05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.question05" />
         <item itemvalue="Application.question03" />
         <item itemvalue="Application.SpiralOrder" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Application.Lexer" />
       </list>
     </recent_temporary>
   </component>
@@ -385,18 +393,21 @@
       <workItem from="1563614147430" duration="1895000" />
       <workItem from="1563621484295" duration="972000" />
       <workItem from="1563623089876" duration="4927000" />
-      <workItem from="1563712767330" duration="5215000" />
+      <workItem from="1563712767330" duration="5752000" />
+      <workItem from="1563766249545" duration="622000" />
+      <workItem from="1563957037004" duration="592000" />
+      <workItem from="1564042931751" duration="2048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180292000" />
+    <option name="totallyTimeSpent" value="184091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1735925" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17962466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -603,8 +614,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/spto/question03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="276">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/spto/question05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
