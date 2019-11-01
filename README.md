@@ -1,7 +1,5 @@
 ### Java Code
 
 including:
-
 leetcode
-
-jianzhi offer
+剑指offer
